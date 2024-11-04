@@ -1,0 +1,7 @@
+.vercel
+.vinxi
+app.config.timestamp_*.js
+node_modules
+.output
+
+.env.local
